@@ -32,6 +32,8 @@ No momento, estou focado em Java e já possuo conhecimento intermediário em MyS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+---
+
 ### 📊 Minhas Estatísticas:
 
 ![Max Streak](https://streak-stats.demolab.com?user=MaxNascimento-DEV&theme=tokyonight)
