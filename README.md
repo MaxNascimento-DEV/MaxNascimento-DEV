@@ -14,7 +14,7 @@ No momento, estou focado em Java e já possuo conhecimento intermediário em MyS
 
 ### 📱Contatos
 <div align="left">
-  <a href="www.linkedin.com/in/maxwell-nascimento-5602ba276" target="_blank">
+  <a href="https://www.linkedin.com/in/maxwell-nascimento-5602ba276/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:maxwellcadete9@gmail.com" target="_blank">
