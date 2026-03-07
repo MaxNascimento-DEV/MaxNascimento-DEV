@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, sou MaxNascimento-DEV👋
 
-<!--
-**MaxNascimento-DEV/MaxNascimento-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-end`**
 
-Here are some ideas to get you started:
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 📍 Recife - Pernambuco, Brasil
+- 💻 Apaixonado por tecnologia e desenvolvimento de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Olá! Meu nome é Maxwell, tenho 22 anos e sou de Pernambuco.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Gosto especialmente dos desafios que a área de desenvolvimento proporciona e estou sempre em busca de aprender algo novo e evoluir minhas habilidades.
+No momento, estou focado em Java e já possuo conhecimento intermediário em MySQL. Também estou aprofundando meus estudos na linguagem e me preparando para avançar no desenvolvimento de aplicações utilizando o framework Spring Boot.
+
+### 📱Contatos
+<div align="left">
+  <a href="www.linkedin.com/in/maxwell-nascimento-5602ba276" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:maxwellcadete9@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+---
+
+### 🤖Línguagens E Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+### 📊 Minhas Estatísticas:
+
+![Max Streak](https://streak-stats.demolab.com?user=MaxNascimento-DEV&theme=tokyonight)
