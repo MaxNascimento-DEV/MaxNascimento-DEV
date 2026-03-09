@@ -24,7 +24,7 @@ No momento, estou focado em Java e já possuo conhecimento intermediário em MyS
 
 ---
 
-### 🤖Línguagens E Tecnologias
+### 🤖Línguagens e Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
