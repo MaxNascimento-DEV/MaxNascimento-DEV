@@ -36,4 +36,21 @@ No momento, estou focado em Java e já possuo conhecimento intermediário em MyS
 
 ### 📊 Minhas Estatísticas:
 
-![Max Streak](https://streak-stats.demolab.com?user=MaxNascimento-DEV&theme=tokyonight)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MaxNascimento-DEV&theme=dark&show_icons=true" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxNascimento-DEV&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
