@@ -8,7 +8,7 @@
 
 ---
 
-Olá! Meu nome é Maxwell, tenho 22 anos e sou de Pernambuco.
+Olá! Meu nome é Maxwell, tenho 23 anos e sou de Pernambuco.
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Gosto especialmente dos desafios que a área de desenvolvimento proporciona e estou sempre em busca de aprender algo novo e evoluir minhas habilidades.
 No momento, estou focado em Java e já possuo conhecimento intermediário em MySQL. Também estou aprofundando meus estudos na linguagem e me preparando para avançar no desenvolvimento de aplicações utilizando o framework Spring Boot.
 
@@ -43,21 +43,9 @@ No momento, estou focado em Java e já possuo conhecimento intermediário em MyS
 
 ### 📊 Minhas Estatísticas:
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MaxNascimento-DEV&theme=dark&show_icons=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxNascimento-DEV&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div align="left">
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=MaxNascimento-DEV&theme=dark&show_icons=true" />
+  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxNascimento-DEV&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</div>
+<br clear="all" />
 
